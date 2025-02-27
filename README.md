@@ -1,6 +1,5 @@
 # sach-chess
 I DO IT!!!!
-At the first place, I can
 
 V prvom rade, neviem hrať šach!!!
 Bola to pre mňa výzva,
